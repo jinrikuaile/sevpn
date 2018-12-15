@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 myfile=/usr/bin/sevpn
 nettools=/bin/netstat
-address=xxoo.sedns.cn
+address=github.com/jinrikuaile/sevpn/raw/master
 rm -rf sevpn
 clear
 
