@@ -349,7 +349,6 @@ sed -i "15i#####自定义HOST转发#####" 自定义.ovpn
 zip -r sevpn.zip 酷视卡.ovpn 广东娱乐.ovpn 自定义.ovpn udp53.ovpn udp67.ovpn udp68.ovpn >/dev/null 2>&1
 echo
 clear
-rm -f sevpn.ovpn* >/dev/null 2>&1
 rm -f 16751.zip* >/dev/null 2>&1
 echo "正在上传至transfer网站..."
 sleep 1
